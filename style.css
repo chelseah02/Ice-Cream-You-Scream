@@ -18,3 +18,35 @@ section {
 .toppings h2 {
     color: rgb(139, 238, 189);
 }
+m {
+    font-style: normal;
+    font-weight: bold;
+    color: slateblue
+}
+table {
+    border: 4px solid slateblue;
+}
+td {
+    border: 1px solid slateblue;
+    padding: 20px;
+}
+th {
+    color: white;
+    background-color: slateblue;
+}
+h1 {
+    color:  palevioletred;
+}
+.contact h2 {
+    color: slateblue;
+}
+.go-home {
+    margin: 10px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    background-color: #3EB489;
+    color: whitesmoke;
+    text-decoration: none;
+}
